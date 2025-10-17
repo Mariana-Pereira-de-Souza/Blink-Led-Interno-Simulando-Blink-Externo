@@ -1,6 +1,6 @@
 # ⚙ Blink interno + externo 
 
-#### Aluna: [Mariana Pereira de Souza](www.linkedin.com/in/mariana-pereira-de-souza1) 
+#### Aluna: [Mariana Pereira de Souza](https://www.linkedin.com/in/mariana-pereira-de-souza1/) 
 #### Professor: [André Godoi Chiovato](https://www.linkedin.com/in/andregodoichiovato/)
 
 ## Introdução
