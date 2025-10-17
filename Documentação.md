@@ -1,3 +1,15 @@
 
-# Blink Led Interno +  Simulando Blink Externo
+# ⚙ Blink Led Interno +  Simulando Blink Externo
 
+## Parte I
+
+### O que é um Blink em relação ao arduíno ?
+
+É o código de exemplo mais básico (o "Hello, World" do Arduino) que tem como função fazer um LED piscar (ligar e desligar) em um intervalo de tempo predeterminado.
+
+### E o led interno ?
+
+Refere-se ao LED embutido que está presente na maioria das placas Arduino (como o Arduino Uno) e em outros microcontroladores. Este LED é conectado a um pino digital específico, geralmente o Pino 13, e é referenciado no código como LED_BUILTIN. Portanto, já com esses conhecimentos fixados vamos entender na prática o que é isso ! Com prints do código feito e registros da luz piscando. 
+
+
+!Blink Interno](caminho/da/imagem)
