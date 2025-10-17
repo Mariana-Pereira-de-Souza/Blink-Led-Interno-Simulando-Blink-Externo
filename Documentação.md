@@ -16,7 +16,8 @@ Refere-se ao LED embutido que está presente na maioria das placas Arduino (como
 ![Blink Interno](assets/imagemblinkinterno.png)
 
 **Figura 1 – Preview (Vídeo led interno)**
-[![Assista ao vídeo](assets/preview.png)](https://youtu.be/QnhrI_rsRXA)
+
+[![Assista ao vídeo](assets/Previewledinterno.png)](https://youtu.be/QnhrI_rsRXA)
 
 
 
