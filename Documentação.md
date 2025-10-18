@@ -28,7 +28,7 @@ O Blink Externo é o próximo passo após o teste interno e refere-se à prátic
 
 **Figura 3 – Código do Blink Externo**
 
-![Blink Externo](assets/imagemblinkinterno.png)
+![Blink Externo](assets/codigoexterno.png)
 ##### [Clique aqui para ir ao arquivo do código!](ledexternocodigo.ino)
 
 **Figura 4 – TinkerCad (Vídeo led OFF_BOARD)**
