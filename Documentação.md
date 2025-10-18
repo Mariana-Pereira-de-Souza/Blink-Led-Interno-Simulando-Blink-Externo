@@ -26,6 +26,15 @@ Refere-se ao LED embutido que está presente na maioria das placas Arduino (como
 
 O Blink Externo é o próximo passo após o teste interno e refere-se à prática de fazer um LED separado piscar, exigindo a montagem de um circuito externo à placa Arduino. É o primeiro passo para aprender a montar circuitos.
 
-**Figura 3 – TinkerCad Blink Externo**
+**Figura 3 – Código do Blink Externo**
 
-![Blink Interno](assets/imagemblinkinterno.png)
+![Blink Externo](assets/imagemblinkinterno.png)
+
+**Figura 4 – TinkerCad (Vídeo led OFF_BOARD)**
+
+![Blink Externo](assets/imagemblinkinterno.png)
+
+**Figura 5 – Blink Externo ( foto )**
+
+[![Assista ao vídeo](assets/previewledinterno.png)](https://youtu.be/QnhrI_rsRXA)
+##### Clique na imagem acima e seja redirecionado, ao vídeo do led interno piscando !
